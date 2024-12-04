@@ -16,3 +16,5 @@ image_path = os.path.join(current_dir, "figure",  str (year) + 'L2_DCFC.jpg')
 
 # 使用 st.image 显示
 st.image(image_path, use_container_width=True)
+
+# test push
